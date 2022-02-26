@@ -11,3 +11,5 @@ iamdb has a few spection features:
 
 ### License
 iamdb may be freely distributed under the MIT license.
+
+### little by little when I have free time
